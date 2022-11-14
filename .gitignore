@@ -1,6 +1,9 @@
-*~
 Thumbs.db
-*.unused
-\#*\#
 
-/vendor/
+*~*
+*.unused
+*.lock*
+
+**/vendor
+**/.vs*
+**/*cudatext*
